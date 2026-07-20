@@ -15,7 +15,7 @@ setup(
                       'Pillow',
                       'openai>=0.27.2',
                       'transformers>=4.31.0',
-                      'fairseq',
+                      'fairseq-fixed==0.12.3.1',
                       'evaluate',
                       'salesforce-lavis',
                       'modelscope[multi-modal]',

@@ -4,9 +4,10 @@ tqdm
 word2number
 Pillow
 openai>=0.27.2
-transformers>=4.27.3
-fairseq
+transformers>=4.27.3,<5
+fairseq-fixed==0.12.3.1
 evaluate
 salesforce-lavis
 modelscope[multi-modal]
 promptcap>=1.0.3
+setuptools==80.9.0

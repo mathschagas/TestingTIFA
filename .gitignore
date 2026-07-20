@@ -1,3 +1,6 @@
 
 tifa/.DS_Store
 .DS_Store
+.venv
+tifascore.egg-info
+tifascore/__pycache__
